@@ -1,0 +1,16 @@
+o que são variaveis?
+R: São como caixinhas onde podemos guardar coisas(Valores) - Prof /Armazenam dados temporariamente na memoria - Minha e do PDF
+
+Quais os principais tipos?
+
+R:São os Numeros Inteiros,Numeros Decimais,Textos e Booleanos - Minha e do pdf
+   >String -> São Textos ou Caracteres
+   >Int -> Numero Inteiros.
+   >Float -> Numero fracionarios
+   >Boleano -> Verdadeiro ou Falso
+
+Qual a diferença de variaveis e constantes?
+R: As variaveis pode mudar o valor no programa e Constantes são valores fixo durante execução - Minha e do pdf
+   
+   > Variável -> Posso alterar o conteúdo
+   > Constante -> Não sofre alteração em seu conteúdo 
